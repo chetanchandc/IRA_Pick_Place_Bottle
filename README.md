@@ -12,6 +12,6 @@ This is a repository for the project named Industrial Robotic Arm(IRA)_Pick_Plac
 The simulation [video](https://www.youtube.com/watch?v=WfgFxgPY99w) of the **IRA** pick and place can be found at the following link.
 
 
-## Developers
+## Developer
 
 * Chetan Chand Chilakapati - s4850111@studenti.unige.it
