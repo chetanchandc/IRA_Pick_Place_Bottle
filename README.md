@@ -9,7 +9,9 @@ This is a repository for the project named Industrial Robotic Arm(IRA)_Pick_Plac
 
 
 ## Video Tutorial
-The simulation [video](https://www.youtube.com/watch?v=WfgFxgPY99w) of the **IRA** pick and place can be found at the following link.
+The simulation video of the **IRA** pick and place can be found at the following link.
+
+[video](https://www.youtube.com/watch?v=WfgFxgPY99w)
 
 
 ## Developer
