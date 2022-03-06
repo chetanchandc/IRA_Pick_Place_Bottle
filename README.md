@@ -8,6 +8,14 @@ This is a repository for the project named Industrial Robotic Arm(IRA)_Pick_Plac
 * Tecnomatix/Process Simulate
 
 
+## Design
+The design of IRA_Pick_Place_Bottle is classified into 3 steps
+
+* Design all the parts and assmeblies(4 bottles, Rotating table to hold 4 holes, and a stationary table to place the bottle) using **creo**.
+* Import the above files to **tecnomatix** using JT File conversion.
+* Design a simulation using pre-built **IRA** i.e., Simulate the IRA to **pick** one of the bottle on the rotating table and **place** it on the stationary table.
+
+
 ## Video Tutorial
 The simulation video of the **IRA** pick and place can be found at the following link.
 
