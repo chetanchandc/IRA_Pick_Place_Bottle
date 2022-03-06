@@ -21,6 +21,7 @@ The simulation video of the **IRA** pick and place can be found at the following
 
 [video](https://www.youtube.com/watch?v=WfgFxgPY99w)
 
+![Simulation_Video](https://github.com/chetanchandc/IRA_Pick_Place_Bottle/blob/main/Simulation_Video.gif)
 
 ## Developer
 
